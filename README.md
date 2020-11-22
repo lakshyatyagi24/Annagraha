@@ -22,3 +22,28 @@ In future we can use many local languages and it is easy to add more languages w
 5. Government Schemes ("सरकारी योजनाएं"): They will be able to check all the government schemes and eligibility directly through voice.
 6. Contact Us ("किसान हेल्पर"): A direct help from costumer center for both skill and farming and all other things.
 
+## 3. Benifit of Annagraha
+1. Easy to use
+2. Farmers are able to get help using Voice.
+3. Compitable in any Smart phone, Google Home, Alexa products. Almost every farmer using Smart Phone
+
+## 4. How to connect Farmers with this skill
+Government can add this skill in their Digital India campaign. It will help farmers to do the work digitally and get the information digitally.
+
+Also Panchayat can help in promoting this skill in their villages.
+
+## 5. Some common queries
+q1: It is a VUI model but in video their is a GUI
+a1: It's complete voice based model that GUI you are seeing in video is only for prototype testing.
+
+q2: Is this available in local languages?
+a2: Initially it will be only available in English and Hindi language but it can be easily extendable to all other languages without touching previous model.
+
+q3: Is this support payment options?
+a3: No, We are not thinking to provide payment option in it as many villagers don't beleive to do payment digitally.
+
+q4: How you are getting all the data for your skill?
+a5: We built this model on the based on API's so it will fetch all the data from valid sources only.
+
+q5: Is there any Machine Learning concept included?
+a5: No, it's a simple API based project we don't want to make it complicated in initial stage.
